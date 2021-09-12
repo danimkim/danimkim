@@ -1,5 +1,5 @@
 ✨Aspiring Front-end Developer✨<br>
-🌱 I’m currently learning HTML,CSS,JavaScript,React
+🌱 I’m currently learning HTML,CSS,JavaScript,React<br>
 📫 How to reach me: kdn725@gmail.com
 
 <!--
