@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello👋%20I'm%20Tina%20&fontSize=90&fontAlignY=45)
 
-## A little about me
+### 🔸 A little about me
 I am a <strong><em>frontend developer</strong></em> who loves to create a beautiful product with excellent UI/UX design.
-<br><br>
+<br>
 
-## Languages and tools
+### 🔹 Languages and tools
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -12,15 +12,15 @@ I am a <strong><em>frontend developer</strong></em> who loves to create a beauti
 ![Typescript](https://img.shields.io/badge/-Typescript-blue?logo=typescript&logoColor=white&style=flat-square)
 ![React](https://img.shields.io/badge/-Vercel-white?logo=vercel&logoColor=black&style=flat-square&border=black)
 ![React](https://img.shields.io/badge/-Sass-CF649A?logo=sass&logoColor=white&style=flat-square&hide_border=false)
-<br><br>
+<br>
 
-## Contact
+### 🔸 Contact
 [![Gmail Badge](https://img.shields.io/badge/-danimkim.dev@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danimkim.dev@gmail.com)](mailto:danimkim.dev@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-danimkim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danim-kim/)](https://www.linkedin.com/in/danim-kim/)
 [![Twitter](https://img.shields.io/badge/-Aloysia-61DAFB?logo=twitter&logoColor=white&style=flat-square&link=https://twitter.com/_lemonverbena_/)](https://twitter.com/_lemonverbena_/)
-<br><br>
+<br>
 
-## Github Stats
+### 🔹 Github Stats
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=dahhnym&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&bg_color=gradient" align="left" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahhnym&hide_border=false&layout=compact" align="center" />
 
 
