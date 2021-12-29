@@ -1,6 +1,6 @@
 ✨Aspiring Front-end Developer✨<br>
 🌱 I’m currently learning HTML,CSS,JavaScript,React<br>
-📫 How to reach me: kdn725@gmail.com
+📫 How to reach me: danimkim.dev@gmail.com
 
 <!--
 **dahhnym/dahhnym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
