@@ -21,7 +21,7 @@ I am a <strong><em>frontend developer</strong></em> who loves to create a beauti
 <br><br>
 
 ## Github Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dahhnym&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&bg_color=gradient" align="left" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahhnym&hide_border=false&layout=compact" align="right" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=dahhnym&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&bg_color=gradient" align="left" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahhnym&hide_border=false&layout=compact" align="right" />
 
 
 <!--
