@@ -11,8 +11,8 @@
 
 ### Contact me
 [![Gmail Badge](https://img.shields.io/badge/-danimkim.dev@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danimkim.dev@gmail.com)](mailto:danimkim.dev@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-danimkim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danim-kim/)](https://www.linkedin.com/in/danim-kim/)
-![Twitter](https://img.shields.io/badge/-Aloysia-61DAFB?logo=twitter&logoColor=white&style=flat-square)
+[![Linkedin Badge](https://img.shields.io/badge/-danimkim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danim-kim/&target=_blank)](https://www.linkedin.com/in/danim-kim/)
+![Twitter](https://img.shields.io/badge/-Aloysia-61DAFB?logo=twitter&logoColor=white&style=flat-square&target=_blank)
 
 
 
