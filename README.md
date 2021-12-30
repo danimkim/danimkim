@@ -17,7 +17,7 @@ I am a <strong><em>frontend developer</strong></em> who loves to create a beauti
 ### 🔸 Contact
 [![Gmail Badge](https://img.shields.io/badge/-danimkim.dev@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danimkim.dev@gmail.com)](mailto:danimkim.dev@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-danimkim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danim-kim/)](https://www.linkedin.com/in/danim-kim/)
-[![Twitter](https://img.shields.io/badge/-Aloysia-61DAFB?logo=twitter&logoColor=white&style=flat-square&link=https://twitter.com/_lemonverbena_/)](https://twitter.com/_lemonverbena_/)
+
 <br>
 
 ### 🔹 Github Stats
@@ -37,6 +37,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: kdn725@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Twitter](https://img.shields.io/badge/-Aloysia-61DAFB?logo=twitter&logoColor=white&style=flat-square&link=https://twitter.com/_lemonverbena_/)](https://twitter.com/_lemonverbena_/)
+
 
 ![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square)
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
