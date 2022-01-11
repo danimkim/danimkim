@@ -1,3 +1,7 @@
+
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdahhnym&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true" align="right"/></a><br>
+
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello👋%20I'm%20Tina%20&fontSize=90&fontAlignY=45)
 
 ### 🔸 A little about me
@@ -22,7 +26,6 @@ I am a <strong><em>frontend developer</strong></em> who loves to create a beauti
 
 ### 🔹 Github Stats
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=dahhnym&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&bg_color=gradient" align="left" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahhnym&hide_border=false&layout=compact" align="center" />
-
 
 <!--
 **dahhnym/dahhnym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
