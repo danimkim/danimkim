@@ -2,30 +2,36 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdahhnym&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true" align="right"/></a><br>
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello👋%20I'm%20Tina%20&fontSize=90&fontAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=%20Danim%20Kim%20&fontSize=80&fontAlignY=45)
 
-### 🔸 A little about me
-I am a <strong><em>frontend developer</strong></em> who loves to create a beautiful product with excellent UI/UX design.
-<br>
 
-### 🔹 Languages and tools
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?logo=react&logoColor=blue&style=flat-square)
-![Typescript](https://img.shields.io/badge/-Typescript-blue?logo=typescript&logoColor=white&style=flat-square)
-![React](https://img.shields.io/badge/-Vercel-white?logo=vercel&logoColor=black&style=flat-square&border=black)
-![React](https://img.shields.io/badge/-Sass-CF649A?logo=sass&logoColor=white&style=flat-square&hide_border=false)
-<br>
+<h3 align="center">🙋‍♀️ About me</h3>
+<p align="center">I am a <strong><em>frontend developer</strong></em> who loves to create a beautiful product with excellent UI/UX design.</p>
 
-### 🔸 Contact
-[![Gmail Badge](https://img.shields.io/badge/-danimkim.dev@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danimkim.dev@gmail.com)](mailto:danimkim.dev@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-danimkim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danim-kim/)](https://www.linkedin.com/in/danim-kim/)
+<h3 align="center">🛠️ Languages and tools</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="Typescript" />
+<img src="https://img.shields.io/badge/-Sass-CF649A?logo=sass&logoColor=white&style=flat-square&hide_border=false" alt="Sass" />
+</p>
 
-<br>
+<h3 align="center">✉️ Contact</h3>
+<p align="center">
+<a href="mailto:danimkim.dev@gmail.com"><img src="https://img.shields.io/badge/-danimkim.dev@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danimkim.dev@gmail.com" alt="Gmail" /></a>
+<a href="https://www.linkedin.com/in/danim-kim/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danim-kim/" alt="LinkedIn" /></a>
+</p>
 
-### 🔹 Github Stats
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=dahhnym&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&bg_color=gradient" align="left" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahhnym&hide_border=false&layout=compact" align="center" />
+
+<h3 align="center">📝 Blog</h3>
+<p align="center">
+<a href="https://velog.io/@sweetpumpkin"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white" alt="velog" /></a>
+</p>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
+
 
 <!--
 **dahhnym/dahhnym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
