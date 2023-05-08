@@ -1,35 +1,45 @@
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdahhnym&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true" align="right"/></a><br>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdanimkim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true" align="right"/></a><br>
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=%20Danim%20Kim%20&fontSize=80&fontAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=%20Hello%20there!%20My%20name%20is%20Danim%20Kim%20&fontSize=40&fontAlignY=45)
 
 
-<h3 align="center">🙋‍♀️ About me</h3>
-<p align="center">I am a <strong><em>frontend developer</strong></em> who loves to create a beautiful product with excellent UI/UX design.</p>
+### 🙋‍♀️ About me
+- I am a skilled web front-end developer with expertise in Javascript, React, Next.js, and Typescript.
+- I love to create visually stunning products that provide exceptional user experiences.
+- I try to keep track of the latest trends and technologies and enjoy learning and trying new things.
 
-<h3 align="center">🛠️ Languages and tools</h3>
-<p align="center">
+
+### 🛠️ Languages and tools
+<p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="Typescript" />
 <img src="https://img.shields.io/badge/-Sass-CF649A?logo=sass&logoColor=white&style=flat-square&hide_border=false" alt="Sass" />
+<img src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="nextjs" />    
 </p>
 
-<h3 align="center">✉️ Contact</h3>
-<p align="center">
-<a href="mailto:danimkim.dev@gmail.com"><img src="https://img.shields.io/badge/-danimkim.dev@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danimkim.dev@gmail.com" alt="Gmail" /></a>
-<a href="https://www.linkedin.com/in/danim-kim/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danim-kim/" alt="LinkedIn" /></a>
-</p>
+### ✉️ Contact
+|<a href="mailto:danimkim.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danimkim.dev@gmail.com" alt="Gmail" />|danimkim.dev@gmail.com|
+|:--|:--|
+|<a href="https://www.linkedin.com/in/danim-kim/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danim-kim/" alt="LinkedIn" />|[Danim Kim](https://www.linkedin.com/in/danim-kim/)|
 
 
-<h3 align="center">📝 Blog</h3>
-<p align="center">
-<a href="https://velog.io/@sweetpumpkin"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white" alt="velog" /></a>
-</p>
+### 📝 Blog
+<a href="https://velog.io/@sweetpumpkin"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white" alt="velog" />
 
+  
+  
+   [![Danim Kim's Velog post stats](https://velog-readme-stats.vercel.app/api?name=sweetpumpkin&color=dark&tag=react-hook-form)](https://velog.io/@sweetpumpkin)
+  
+  
+  [![Danim Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=danimkim&show_icons=true&theme=synthwave)](https://github.com/danimkim/github-readme-stats)
+  
+  
+  
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
 
 
