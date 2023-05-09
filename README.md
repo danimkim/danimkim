@@ -8,7 +8,7 @@
 ### 🙋‍♀️ About me
 - I am a skilled web front-end developer with expertise in Javascript, React, Next.js, and Typescript.
 - I love to create visually stunning products that provide exceptional user experiences.
-- I try to keep track of the latest trends and technologies and enjoy learning and trying new things.
+- I keep up-to-date with the latest trends and technologies, and enjoy learning new things.
 
 
 ### 🛠️ Languages and tools
