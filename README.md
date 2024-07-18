@@ -34,7 +34,14 @@
   
   
    [![Danim Kim's Velog post stats](https://velog-readme-stats.vercel.app/api?name=sweetpumpkin&color=dark&tag=react-hook-form)](https://velog.io/@sweetpumpkin)
-  
+<!--  
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/danimkim?pet-id=1" width="1000" height="120"/>
+</a>
+-->
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/danimkim"/>
+</a>
   
   [![Danim Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=danimkim&show_icons=true&theme=synthwave)](https://github.com/danimkim/github-readme-stats)
   
