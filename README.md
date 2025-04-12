@@ -1,76 +1,45 @@
+<!-- Readme Main Banner -->
+![GitHub Profile Readme](https://github.com/user-attachments/assets/9ed1d8c4-9d48-4e23-81f5-999108e0c30f)
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdanimkim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true" align="right"/></a><br>
+<br>
 
+### 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞
+I'm a frontend developer who loves bringing ideas to life through collaborative problem-solving and clear communication. I specialize in building user-friendly web applications with technologies like JavaScript, React, TypeScript. I’m passionate about learning new tools and techniques, always taking a proactive approach to solve challenges and improve my skills. I thrive in team environments where collaboration and knowledge sharing drive innovation. My goal is to continue growing as a developer, contributing to meaningful projects, and building products that solve real problems.
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=%20Hello%20there!%20My%20name%20is%20Danim%20Kim%20&fontSize=40&fontAlignY=45)
+<br>
 
+### 𝐒𝐤𝐢𝐥𝐥 𝐬𝐞𝐭
+<img src="https://github.com/user-attachments/assets/1843a26a-bc0e-4058-b6fc-d912099b6823" width="550" alt="HTML,CSS,JavaScript,TypeScript,Gatsby.js,React,Next.js,TailwindCSS,Sass" /><img src="https://github.com/user-attachments/assets/fa0e4eca-9650-406a-b281-10d398adad6f" width="250" alt="Github, Gitlab, Vite, Figma"/>
 
-### 🙋‍♀️ About me
-- I am a skilled web front-end developer with expertise in Javascript, React, Next.js, and Typescript.
-- I love to create visually stunning products that provide exceptional user experiences.
-- I keep up-to-date with the latest trends and technologies, and enjoy learning new things.
+<br>
 
+### 𝐁𝐥𝐨𝐠 𝐩𝐨𝐬𝐭
+- <a href="https://velog.io/@sweetpumpkin/React-hook-form%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-Form-Validation">Implementing Sign-Up Form Validation Using React Hook Form (KOR)</a>
 
-### 🛠️ Languages and tools
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="Typescript" />
-<img src="https://img.shields.io/badge/-Sass-CF649A?logo=sass&logoColor=white&style=flat-square&hide_border=false" alt="Sass" />
-<img src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="nextjs" />    
-</p>
+<!-- Velog Blog Post Card -->
+[![Danim Kim's Velog post stats](https://velog-readme-stats.vercel.app/api?name=sweetpumpkin&color=dark&tag=react-hook-form)](https://velog.io/@sweetpumpkin/React-hook-form%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-Form-Validation)
 
-### ✉️ Contact
-|<a href="mailto:danimkim.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danimkim.dev@gmail.com" alt="Gmail" />|danimkim.dev@gmail.com|
-|:--|:--|
-|<a href="https://www.linkedin.com/in/danim-kim/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danim-kim/" alt="LinkedIn" />|[Danim Kim](https://www.linkedin.com/in/danim-kim/)|
+<br>
 
+### 𝐂𝐨𝐧𝐭𝐚𝐜𝐭
+✉️ 𝖽𝖺𝗇𝗂𝗆𝗄𝗂𝗆.𝖽𝖾𝗏@𝗀𝗆𝖺𝗂𝗅.𝖼𝗈𝗆 <br>
+<img src="https://i.sstatic.net/gVE0j.png" alt="linkedin" align="center"> <a href="https://www.linkedin.com/dntinakim" rel="nofollow noreferrer">𝖫𝗂𝗇𝗄𝖾𝖽𝖨𝗇</a>
 
-### 📝 Blog
-<a href="https://velog.io/@sweetpumpkin"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white" alt="velog" />
+<br>
 
-  
-  
-   [![Danim Kim's Velog post stats](https://velog-readme-stats.vercel.app/api?name=sweetpumpkin&color=dark&tag=react-hook-form)](https://velog.io/@sweetpumpkin)
-<!--  
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/danimkim?pet-id=1" width="1000" height="120"/>
-</a>
--->
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/danimkim"/>
-</a>
-  
-  [![Danim Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=danimkim&show_icons=true&theme=synthwave)](https://github.com/danimkim/github-readme-stats)
-  
-  
-  
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
+<br>
 
+<br>
 
-<!--
-**dahhnym/dahhnym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- GitHut Stats & Git Animals-->
+[![Danim Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=danimkim&show_icons=true&theme=gruvbox_light&border_radius=10)](https://github.com/danimkim/github-readme-stats)
+<a href="https://github.com/devxb/gitanimals"><img src="https://render.gitanimals.org/farms/danimkim" height="195" /></a> 
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning HTML,CSS,JavaScript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: kdn725@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<br>
 
-[![Twitter](https://img.shields.io/badge/-Aloysia-61DAFB?logo=twitter&logoColor=white&style=flat-square&link=https://twitter.com/_lemonverbena_/)](https://twitter.com/_lemonverbena_/)
+<br>
 
-
-![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square)
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-
-[<img src="https://img.shields.io/badge/danimkim-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/danim-kim/)
-[<img src = "https://img.shields.io/badge/aloysia-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/_lemonverbena_)
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello👋%20I'm%20Tina%20&fontSize=90&desc=a%20frontend%20developer%20who%20loves%20to%20create%20beautiful%20product%20with%20an%20excellent%20UI/UX%20design&descAlignY=60&fontAlignY=40)
--->
+<!-- Hits Counter -->
+<img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fdanimkim&label=view&icon=github&color=%23f8e0ae" alt="Readme view counter" align="right" />
