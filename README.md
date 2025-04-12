@@ -14,7 +14,7 @@ I'm a frontend developer who loves bringing ideas to life through collaborative 
 <br>
 
 ### 𝐁𝐥𝐨𝐠 𝐩𝐨𝐬𝐭
-- <a href="https://velog.io/@sweetpumpkin/React-hook-form%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-Form-Validation" target="_blank">Implementing Sign-Up Form Validation Using React Hook Form (KOR)</a>
+- <a href="https://velog.io/@sweetpumpkin/React-hook-form%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-Form-Validation">Implementing Sign-Up Form Validation Using React Hook Form (KOR)</a>
 
 <!-- Velog Blog Post Card -->
 [![Danim Kim's Velog post stats](https://velog-readme-stats.vercel.app/api?name=sweetpumpkin&color=dark&tag=react-hook-form)](https://velog.io/@sweetpumpkin/React-hook-form%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-Form-Validation)
@@ -23,7 +23,7 @@ I'm a frontend developer who loves bringing ideas to life through collaborative 
 
 ### 𝐂𝐨𝐧𝐭𝐚𝐜𝐭
 ✉️ 𝖽𝖺𝗇𝗂𝗆𝗄𝗂𝗆.𝖽𝖾𝗏@𝗀𝗆𝖺𝗂𝗅.𝖼𝗈𝗆 <br>
-<img src="https://i.sstatic.net/gVE0j.png" alt="linkedin" align="center"> <a href="https://www.linkedin.com/in/dntinakim" rel="nofollow noreferrer" target="_blank">𝖫𝗂𝗇𝗄𝖾𝖽𝖨𝗇</a>
+<img src="https://i.sstatic.net/gVE0j.png" alt="linkedin" align="center"> <a href="https://www.linkedin.com/in/dntinakim" rel="nofollow noreferrer">𝖫𝗂𝗇𝗄𝖾𝖽𝖨𝗇</a>
 
 <br>
 
@@ -36,7 +36,7 @@ I'm a frontend developer who loves bringing ideas to life through collaborative 
 <img src="https://github-readme-stats.vercel.app/api?username=danimkim&show_icons=true&border_radius=10&hide_border=true&theme=gruvbox_light&bg_color=f8deae" alt="Danim Kim's GitHub stats" width=400 /></a>
 
 <!-- Git Animals-->
-<a href="https://github.com/devxb/gitanimals" target="_blank">
+<a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/danimkim" height="167" />
 </a> 
 
