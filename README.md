@@ -32,7 +32,7 @@ I'm a frontend developer who loves bringing ideas to life through collaborative 
 <br>
 
 <!-- GitHut Stats & Git Animals-->
-[![Danim Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=danimkim&show_icons=true&border_radius=10&hide_border=true&theme=gruvbox_light&bg_color=f8deae&cards_width=400)](https://github.com/danimkim/github-readme-stats) <a href="https://github.com/devxb/gitanimals"><img src="https://render.gitanimals.org/farms/danimkim" height="167" /></a> 
+[![Danim Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=danimkim&show_icons=true&border_radius=10&hide_border=true&theme=gruvbox_light&bg_color=f8deae&card_width=400)](https://github.com/danimkim/github-readme-stats) <a href="https://github.com/devxb/gitanimals"><img src="https://render.gitanimals.org/farms/danimkim" height="167" /></a> 
 
 <br>
 
