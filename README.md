@@ -9,7 +9,7 @@ I'm a frontend developer who loves bringing ideas to life through collaborative 
 <br>
 
 ### 𝐒𝐤𝐢𝐥𝐥 𝐬𝐞𝐭
-<img src="https://github.com/user-attachments/assets/1843a26a-bc0e-4058-b6fc-d912099b6823" width="550" alt="HTML,CSS,JavaScript,TypeScript,Gatsby.js,React,Next.js,TailwindCSS,Sass" /><img src="https://github.com/user-attachments/assets/fa0e4eca-9650-406a-b281-10d398adad6f" width="250" alt="Github, Gitlab, Vite, Figma"/>
+<img src="https://github.com/user-attachments/assets/15eaf365-5006-47f8-b637-9a8c1580245d" width="450" alt="HTML,CSS,JavaScript,TypeScript,Gatsby.js,React,Next.js,TailwindCSS,Sass" /><img src="https://github.com/user-attachments/assets/fa0e4eca-9650-406a-b281-10d398adad6f" width="210" alt="Github, Gitlab, Vite, Figma"/>
 
 <br>
 
@@ -31,8 +31,14 @@ I'm a frontend developer who loves bringing ideas to life through collaborative 
 
 <br>
 
-<!-- GitHut Stats & Git Animals-->
-[![Danim Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=danimkim&show_icons=true&border_radius=10&hide_border=true&theme=gruvbox_light&bg_color=f8deae&card_width=400)](https://github.com/danimkim/github-readme-stats) <a href="https://github.com/devxb/gitanimals"><img src="https://render.gitanimals.org/farms/danimkim" height="167" /></a> 
+<!-- GitHut Stats -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api?username=danimkim&show_icons=true&border_radius=10&hide_border=true&theme=gruvbox_light&bg_color=f8deae" alt="Danim Kim's GitHub stats" width=400 /></a>
+
+<!-- Git Animals-->
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/danimkim" height="167" />
+</a> 
 
 <br>
 
