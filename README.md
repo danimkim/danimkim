@@ -23,7 +23,7 @@ I'm a frontend developer who loves bringing ideas to life through collaborative 
 
 ### 𝐂𝐨𝐧𝐭𝐚𝐜𝐭
 ✉️ 𝖽𝖺𝗇𝗂𝗆𝗄𝗂𝗆.𝖽𝖾𝗏@𝗀𝗆𝖺𝗂𝗅.𝖼𝗈𝗆 <br>
-<img src="https://i.sstatic.net/gVE0j.png" alt="linkedin" align="center"> <a href="https://www.linkedin.com/dntinakim" rel="nofollow noreferrer">𝖫𝗂𝗇𝗄𝖾𝖽𝖨𝗇</a>
+<img src="https://i.sstatic.net/gVE0j.png" alt="linkedin" align="center"> <a href="https://www.linkedin.com/in/dntinakim" rel="nofollow noreferrer">𝖫𝗂𝗇𝗄𝖾𝖽𝖨𝗇</a>
 
 <br>
 
